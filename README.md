@@ -1,4 +1,4 @@
-# DynamoDB Instagram
+# DynamoDB Instagram Test
 
 *This project was built for a DynamoDB demo on [Marcia Villalba's YouTube channel](https://youtu.be/Q6-qWdsa8a4). For this demo, we saw how + why to use DynamoDB, then displayed some common DynamoDB patterns by building a simple Instagram clone.*
 
